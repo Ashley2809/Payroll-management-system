@@ -1,1 +1,1 @@
-# Payroll-management-system
+# PayrollManagementSystem
